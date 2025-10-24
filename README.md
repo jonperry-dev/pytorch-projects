@@ -1,6 +1,6 @@
 # PyTorch Propjects
 
-This pytorch-projects repo will hold various torch porjects over many different deep learning taks, including vision and reinforcement learning.
+This pytorch-projects repo will hold various torch projects over many different deep learning tasks, including vision and reinforcement learning.
 
 # Install
 
